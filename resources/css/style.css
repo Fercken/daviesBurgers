@@ -42,5 +42,13 @@ nav a {
   background-size: cover;
 }
 
-
+.header h1 {
+  background-color: #05A8AA;
+  color: #FFF;
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+  font-weight: 300px;
+  line-height: 40px;
+  width: 68%;
+}
 
